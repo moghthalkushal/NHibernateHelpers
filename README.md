@@ -1,9 +1,9 @@
 # NHibernateHelpers
 NHibernateHelpers with Structure Map
 
-Just add the refrences of Core ,Infrastructure and DependanyResolver in to your project
+Just add the references of Core ,Infrastructure and DependanyResolver in to your project
 
-Resolve the dependancy in your project using this code
+Resolve the dependency in your project using this code
 
  
         private static ILog _log = LogManager.GetLogger(typeof(IoCConfig));
