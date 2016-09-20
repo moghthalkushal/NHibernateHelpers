@@ -1,0 +1,36 @@
+C:\Users\kkuma24\Desktop\Source Codes\TempCode\FilterManagementWithNhibernates\Walmart.DSS.Api.FilterManagement\DependencyResolver\bin\Release\DependencyResolver.dll
+C:\Users\kkuma24\Desktop\Source Codes\TempCode\FilterManagementWithNhibernates\Walmart.DSS.Api.FilterManagement\DependencyResolver\bin\Release\DependencyResolver.pdb
+C:\Users\kkuma24\Desktop\Source Codes\TempCode\FilterManagementWithNhibernates\Walmart.DSS.Api.FilterManagement\DependencyResolver\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\kkuma24\Desktop\Source Codes\TempCode\FilterManagementWithNhibernates\Walmart.DSS.Api.FilterManagement\DependencyResolver\bin\Release\StructureMap.dll
+C:\Users\kkuma24\Desktop\Source Codes\TempCode\FilterManagementWithNhibernates\Walmart.DSS.Api.FilterManagement\DependencyResolver\bin\Release\System.Web.Http.dll
+C:\Users\kkuma24\Desktop\Source Codes\TempCode\FilterManagementWithNhibernates\Walmart.DSS.Api.FilterManagement\DependencyResolver\bin\Release\Newtonsoft.Json.dll
+C:\Users\kkuma24\Desktop\Source Codes\TempCode\FilterManagementWithNhibernates\Walmart.DSS.Api.FilterManagement\DependencyResolver\bin\Release\StructureMap.pdb
+C:\Users\kkuma24\Desktop\Source Codes\TempCode\FilterManagementWithNhibernates\Walmart.DSS.Api.FilterManagement\DependencyResolver\bin\Release\StructureMap.xml
+C:\Users\kkuma24\Desktop\Source Codes\TempCode\FilterManagementWithNhibernates\Walmart.DSS.Api.FilterManagement\DependencyResolver\bin\Release\System.Web.Http.xml
+C:\Users\kkuma24\Desktop\Source Codes\TempCode\FilterManagementWithNhibernates\Walmart.DSS.Api.FilterManagement\DependencyResolver\obj\Release\DependencyResolver.csprojResolveAssemblyReference.cache
+C:\Users\kkuma24\Desktop\Source Codes\TempCode\FilterManagementWithNhibernates\Walmart.DSS.Api.FilterManagement\DependencyResolver\obj\Release\DependencyResolver.dll
+C:\Users\kkuma24\Desktop\Source Codes\TempCode\FilterManagementWithNhibernates\Walmart.DSS.Api.FilterManagement\DependencyResolver\obj\Release\DependencyResolver.pdb
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\DependencyResolver\bin\Release\DependencyResolver.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\DependencyResolver\bin\Release\DependencyResolver.pdb
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\DependencyResolver\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\DependencyResolver\bin\Release\StructureMap.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\DependencyResolver\bin\Release\System.Web.Http.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\DependencyResolver\bin\Release\Newtonsoft.Json.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\DependencyResolver\bin\Release\StructureMap.pdb
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\DependencyResolver\bin\Release\StructureMap.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\DependencyResolver\bin\Release\System.Web.Http.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\DependencyResolver\obj\Release\DependencyResolver.csprojResolveAssemblyReference.cache
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\DependencyResolver\obj\Release\DependencyResolver.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\DependencyResolver\obj\Release\DependencyResolver.pdb
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\DependencyResolver\bin\Release\DependencyResolver.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\DependencyResolver\bin\Release\DependencyResolver.pdb
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\DependencyResolver\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\DependencyResolver\bin\Release\StructureMap.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\DependencyResolver\bin\Release\System.Web.Http.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\DependencyResolver\bin\Release\Newtonsoft.Json.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\DependencyResolver\bin\Release\StructureMap.pdb
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\DependencyResolver\bin\Release\StructureMap.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\DependencyResolver\bin\Release\System.Web.Http.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\DependencyResolver\obj\Release\DependencyResolver.csprojResolveAssemblyReference.cache
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\DependencyResolver\obj\Release\DependencyResolver.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\DependencyResolver\obj\Release\DependencyResolver.pdb

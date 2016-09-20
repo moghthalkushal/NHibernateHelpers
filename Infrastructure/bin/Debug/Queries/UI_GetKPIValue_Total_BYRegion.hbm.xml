@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping
+	xmlns="urn:nhibernate-mapping-2.2"
+	assembly="DSS.Core"
+	namespace="DSS.Core.Domain.Models">
+  <sql-query name="GetKPIValueTotalBYRegion">
+    <query-param name="UserID" type="String"/>
+    <query-param name="Timeframe" type="String"/>
+    <query-param name="Frequency" type="String"/>
+    <query-param name="KpiName" type="String"/>
+    <query-param name="Country" type="String"/>
+    <query-param name="Subject" type="String"/>
+    <query-param name="HierarchyLevel" type="String"/>
+    <query-param name="HierarchyValue" type="String"/>
+    
+    <return-scalar column="KPIValue" type="Decimal"/>
+    <return-scalar column="LastYearKPIValue" type="Decimal"/>
+    <return-scalar column="STATE_CODE" type="String"/>
+
+    <![CDATA[
+    Exec tables_sqldb.UI_GetKPIValue_Total_BYRegion :UserID, :Timeframe , :Frequency , :KpiName , :Country , :Subject , :HierarchyLevel , :HierarchyValue
+    
+]]>
+  </sql-query>
+</hibernate-mapping>

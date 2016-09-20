@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping
+	xmlns="urn:nhibernate-mapping-2.2"
+	assembly="DSS.Core"
+  	namespace="DSS.Core.Domain.Models">
+  <sql-query name="DeleteUserPreferences">
+    <![CDATA[
+         
+  Delete 
+  from dbo.UserPreferences_For_Filters
+
+  Where 
+  UserPreferenceID in ( :UserPreferenceID ) 
+  and
+  CreatedBy = :CreatedBy
+        
+       
+
+]]>
+  </sql-query>
+</hibernate-mapping>

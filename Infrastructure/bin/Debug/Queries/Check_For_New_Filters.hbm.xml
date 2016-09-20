@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping
+	xmlns="urn:nhibernate-mapping-2.2"
+	assembly="DSS.Core"
+	namespace="DSS.Core.Domain.Models">
+  <sql-query name="CheckForNewFilters">
+    <query-param name="TimeStamp" type="DateTime"/>
+    <query-param name="AllFilters_Required" type="int"/>
+ 
+       <return-scalar column="FilterName" type="String"/>
+        <return-scalar column="FilterTypeName" type="String"/>
+    
+    <![CDATA[
+        Exec dbo.CheckForNewFilters  :TimeStamp ,  :AllFilters_Required
+
+]]>
+  </sql-query>
+</hibernate-mapping>

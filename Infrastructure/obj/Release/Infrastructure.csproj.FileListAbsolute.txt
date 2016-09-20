@@ -1,0 +1,70 @@
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\Queries\Check_For_New_Filters.hbm.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\Queries\DeleteUserPreferences.hbm.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\Queries\UI_GetKPIValue_Total_BYRegion.hbm.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\DSS.Infrastructure.dll.config
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\DSS.Infrastructure.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\DSS.Infrastructure.pdb
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\DSS.Infrastructure.dll.CodeAnalysisLog.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\DSS.Infrastructure.dll.lastcodeanalysissucceeded
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\DSS.Core.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\FluentNHibernate.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\log4net.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\NHibernate.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\StructureMap.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\System.Web.Mvc.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\System.Web.Razor.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\System.Web.WebPages.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\DSS.Core.pdb
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\FluentNHibernate.pdb
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\FluentNHibernate.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\log4net.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\NHibernate.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\StructureMap.pdb
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\StructureMap.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\System.Web.Mvc.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\System.Web.Razor.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\System.Web.WebPages.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\obj\Release\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\obj\Release\DSS.Infrastructure.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Infrastructure\obj\Release\DSS.Infrastructure.pdb
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\obj\Release\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\Queries\Check_For_New_Filters.hbm.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\Queries\DeleteUserPreferences.hbm.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\Queries\UI_GetKPIValue_Total_BYRegion.hbm.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\FluentNHibernate.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\log4net.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\NHibernate.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\StructureMap.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\System.Web.Mvc.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\System.Web.Razor.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\System.Web.WebPages.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\FluentNHibernate.pdb
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\FluentNHibernate.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\log4net.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\NHibernate.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\StructureMap.pdb
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\StructureMap.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\System.Web.Mvc.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\System.Web.Razor.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\System.Web.WebPages.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\NHibernateHelper.Infrastructure.dll.config
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\NHibernateHelper.Infrastructure.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\NHibernateHelper.Infrastructure.pdb
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\NHibernateHelper.Infrastructure.dll.CodeAnalysisLog.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\NHibernateHelper.Infrastructure.dll.lastcodeanalysissucceeded
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\NHibernateHelper.Core.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\bin\Release\NHibernateHelper.Core.pdb
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\obj\Release\NHibernateHelper.Infrastructure.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Infrastructure\obj\Release\NHibernateHelper.Infrastructure.pdb

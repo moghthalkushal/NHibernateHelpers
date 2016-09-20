@@ -1,0 +1,18 @@
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Core\bin\Release\DSS.Core.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Core\bin\Release\DSS.Core.pdb
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Core\bin\Release\DSS.Core.dll.CodeAnalysisLog.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Core\bin\Release\DSS.Core.dll.lastcodeanalysissucceeded
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Core\bin\Release\NHibernate.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Core\bin\Release\NHibernate.xml
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Core\obj\Release\DSS.Core.dll
+C:\Users\kkuma24\Desktop\Source Codes\DSS-sp7\Walmart.NGDSS.Library\Walmart.NGDSS.Library.NhibernateHelpers\Core\obj\Release\DSS.Core.pdb
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Core\bin\Release\NHibernate.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Core\bin\Release\NHibernate.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Core\bin\Release\NHibernateHelper.Core.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Core\bin\Release\NHibernateHelper.Core.pdb
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Core\bin\Release\NHibernateHelper.Core.dll.CodeAnalysisLog.xml
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Core\bin\Release\NHibernateHelper.Core.dll.lastcodeanalysissucceeded
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Core\obj\Release\NHibernateHelper.Core.dll
+C:\Users\kkuma24\Desktop\Source Codes\Test Nhib\NhibernateHelper\Core\obj\Release\NHibernateHelper.Core.pdb
