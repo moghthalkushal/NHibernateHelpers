@@ -5,7 +5,7 @@ Just add the refrences of Core ,Infrastructure and DependanyResolver in to your 
 
 Resolve the dependancy in your project using this code
 
- public class IoCConfig {
+ 
         private static ILog _log = LogManager.GetLogger(typeof(IoCConfig));
         public static void Initialize() {
             IoC Ioc = new IoC();
@@ -17,7 +17,7 @@ Resolve the dependancy in your project using this code
             }
             catch (Exception ex) { _log.Error(ex.Message, ex); throw; }
         }
-    }
+    
     Inject them into your controller and start using the Nhibernate
        private IRepository<SqlServer> _sqlRepository;
         public FilterManagementController(IRepository<SqlServer> sqlRepository)
